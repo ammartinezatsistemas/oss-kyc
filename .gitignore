@@ -2,3 +2,4 @@ zcom-contracts/*
 node_modules/*
 build/*
 public/js/config.js
+.zcom-secret

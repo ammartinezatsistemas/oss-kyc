@@ -8,6 +8,7 @@
   "dependencies": {
     "debug": "^2.6.8",
     "express": "^4.15.3",
+    "zcom-blockchain-cp": "^1.0.0",
     "zcom-contracts": "git+https://github.com/zcom-cloud-blockchain/solidity.git"
   }
 }
